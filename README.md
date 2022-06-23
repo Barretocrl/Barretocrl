@@ -1,4 +1,4 @@
-### Oie, Me chamo Gabriel e estou aprendendo muito sobre o mundo da programação, procuro trabalho
+### Oie, Me chamo Gabriel e estou aprendendo muito sobre o mundo da programação
 
 Eu me garanto em html, css e um pouco de javascrip.
 Estou aprendendo agora sobre banco de dados e python, eu ando expandindo bastante meu conhecimento e sinto que estou indo bem.
